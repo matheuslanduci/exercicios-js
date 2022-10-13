@@ -1,0 +1,15 @@
+{
+  "name": "exercicios-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "matheuslanduci",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "exercicios": "vitest --ui"
+  },
+  "devDependencies": {
+    "@vitest/ui": "^0.24.1",
+    "vitest": "^0.24.1"
+  }
+}
